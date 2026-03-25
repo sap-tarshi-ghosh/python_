@@ -8,7 +8,7 @@ This repository contains hands-on tutorials and practical implementations for ma
 
 ---
 
-## 📖 Notebook Contents
+##  Notebook Contents
 
 | # | Notebook | Description | File Size | Topics Covered |
 |---|----------|-------------|-----------|----------------|
@@ -20,7 +20,7 @@ This repository contains hands-on tutorials and practical implementations for ma
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
