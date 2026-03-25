@@ -95,7 +95,7 @@ python_/
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 This repository is ideal for:
 - **Students** learning Python and data science
@@ -114,13 +114,13 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📝 License
+##  License
 
 This repository is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 💬 Support
+##  Support
 
 If you have questions or encounter issues:
 1. Check existing notebooks for similar examples
@@ -129,7 +129,7 @@ If you have questions or encounter issues:
 
 ---
 
-## 📈 Progress Tracking
+##  Progress Tracking
 
 Track your learning journey through the notebooks:
 - [ ] NumPy basics
