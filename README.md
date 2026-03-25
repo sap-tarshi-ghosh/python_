@@ -50,7 +50,7 @@ jupyter notebook
 
 ---
 
-## 📚 Learning Path
+##  Learning Path
 
 ### Beginner Level
 1. Start with **numpy.ipynb** - Build foundational knowledge of NumPy arrays and operations
@@ -65,7 +65,7 @@ jupyter notebook
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 python_/
@@ -80,7 +80,7 @@ python_/
 
 ---
 
-## 💡 Key Topics Covered
+##  Key Topics Covered
 
 ### Data Science Fundamentals
 - Array operations and numerical computing with NumPy
@@ -105,7 +105,7 @@ This repository is ideal for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 - Fork the repository
