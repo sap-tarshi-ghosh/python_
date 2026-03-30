@@ -45,7 +45,7 @@ cd python_
 pip install numpy pandas scikit-learn matplotlib
 
 # Start Jupyter Notebook
-jupyter notebook
+jupyter notebook  #i have used google colab
 ```
 
 ---
