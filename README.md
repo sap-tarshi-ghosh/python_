@@ -53,7 +53,7 @@ jupyter notebook  #i have used google colab
 ##  Learning Path
 
 ### Beginner Level
-1. Start with **numpy.ipynb** - It builds   foundational knowledge of NumPy arrays and operations
+1. Start with **numpy.ipynb** - It builds foundational knowledge of NumPy arrays and operations
 2. Move to **pandas.ipynb** - Learn data manipulation and analysis techniques
 
 ### Intermediate Level
