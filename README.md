@@ -4,7 +4,7 @@ A comprehensive collectionn of Jupyter notebooks covering fundamental Python con
 
 ## Overview
 
-This repository contains hands-on tutorials and practical implementations for mastering Python programming, data science libraries, and machine learning fundamentals. Each notebook is designed to build progressively on the core concepts.
+This repository contains hands-on tutorials and practical implementations for mastering Python programming, data science libraries, and machine learning fundamentals. Each notebook is designed to build progressively  on the core concepts.
 
 ---
 
