@@ -35,7 +35,7 @@ This repository contains hands on tutorials and practical implementations for ma
 ### Installation
 
 ```bash
-# Clone the repository
+# Clone the reposi
 git clone https://github.com/sap-tarshi-ghosh/python_.git
 
 # Navigate to the repository
