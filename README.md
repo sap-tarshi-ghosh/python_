@@ -124,7 +124,7 @@ If you have questions or encounter issues:
 
 ---
 
-##  Progress Tracking
+##  Progress Tracking,
 
 Track your learning journey through the notebooks:
 - [ ] NumPy basics
