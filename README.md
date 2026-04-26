@@ -2,7 +2,7 @@
 
 A comprehensive collectionn of Jupyter notebooks covering fundamental Python concepts, data manipulation and machine learning techniques.
 
-## Overview,
+## Overview
 
 This repo contains hands on tutorials and practical implementations for mastering Python programming, data science libraries, and machine learning fundamentals. Each notebook is designed to build progressively about the core concepts.
 
