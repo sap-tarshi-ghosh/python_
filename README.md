@@ -10,7 +10,7 @@ This repository contains hands on tutorials and practical implementations for ma
 
 ##  Notebook Contents
 
-| # | Notebook | Description | File size | Topics Covered |
+| # | Notebook | Description | File size | Topics covered |
 |---|----------|-------------|-----------|----------------|
 | 1 | [01_basic_ml.ipynb](https://github.com/sap-tarshi-ghosh/python_/blob/main/01_basic_ml.ipynb) | Introduction to basic machine learning concepts and fundamentals | 25.8 KB | ML Basics, Models, Training |
 | 2 | [02_basic_ml.ipynb](https://github.com/sap-tarshi-ghosh/python_/blob/main/02_basic_ml.ipynb) | Advanced machine learning techniques and implementations | 38.8 KB | Advanced ML, Algorithms, Evaluation |
