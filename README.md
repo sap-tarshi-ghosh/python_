@@ -1,4 +1,4 @@
-# Python Learning Repository 
+# Python Learning Repositor
 
 A comprehensive collectionn of Jupyter notebooks covering fundamental Python concepts, data manipulation and machine learning techniques
 
